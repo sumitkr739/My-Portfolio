@@ -199,7 +199,7 @@ export const experiences = [
   // },
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    img: "https://firebasestorage.googleapis.com/v0/b/wonderlust-5ce34.appspot.com/o/edunet-logo-white.png?alt=media&token=b8c37a54-8025-48e7-bbbd-e0b9ea9e862f",
     role: "Cyber Security Intern",
     company: "Edunet Foundation",
     date: "Oct 2023 - Nov 3023",
@@ -283,7 +283,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://firebasestorage.googleapis.com/v0/b/wonderlust-5ce34.appspot.com/o/favicon.png?alt=media&token=dbb6ef1c-2e28-4efd-ae80-b767bdd45581",
     school: "Jawaharlal Institute of Technology, Indore",
     date: "Oct 2021 - Sep 2025",
     grade: "7.87 CGPA",
@@ -292,7 +292,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://firebasestorage.googleapis.com/v0/b/wonderlust-5ce34.appspot.com/o/Screenshot%202024-03-05%20085743.png?alt=media&token=5dc3aef2-71a3-4378-8737-c58e5e0b0553",
     school: "Grace Higher Secondary School, Barwaha",
     date: "Mar 2021",
     grade: "85.2%",
@@ -300,7 +300,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://firebasestorage.googleapis.com/v0/b/wonderlust-5ce34.appspot.com/o/Screenshot%202024-03-05%20085743.png?alt=media&token=5dc3aef2-71a3-4378-8737-c58e5e0b0553",
     school: "Grace Higher Secondary School, Barwaha",
     date: "Mar 2019",
     grade: "84.2%",
