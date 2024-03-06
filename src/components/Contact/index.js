@@ -118,6 +118,14 @@ const ContactButton = styled.input`
   color: ${({ theme }) => theme.text_primary};
   font-size: 18px;
   font-weight: 600;
+  &:hover {
+    background: hsla(271, 100%, 60%, 1);
+  }
+
+  &:active {
+    transform: translateY(1px);
+    background: hsla(271, 100%, 45%, 1);
+  }
 `
 
 
@@ -130,7 +138,7 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_2zxlqrv', 'template_2m1rwze', form.current, 'SybVGsYS52j2TfLbi')
+    emailjs.sendForm('service_2zxlqrv', 'template_2m1rwze', form.current, 'ADQJe_BiBS64hKVss')
       .then((result) => {
         setOpen(true);
         form.current.reset();
@@ -157,7 +165,7 @@ const Contact = () => {
         <Snackbar
           open={open}
           autoHideDuration={6000}
-          onClose={()=>setOpen(false)}
+          onClose={() => setOpen(false)}
           message="Email sent successfully!"
           severity="success"
         />
